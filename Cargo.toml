@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "./Rust/Projects/Rust Programming Language Book/guessing_game",
+    "./Rust/Projects/Rust Programming Language Book/hello_cargo",
+]

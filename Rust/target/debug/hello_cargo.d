@@ -1,0 +1,1 @@
+/Users/julianmella/Desktop/Git/learning-programming-languages/Rust/target/debug/hello_cargo: /Users/julianmella/Desktop/Git/learning-programming-languages/Rust/Projects/Rust\ Programming\ Language\ Book/chapter\ 1\ hello_cargo/src/main.rs

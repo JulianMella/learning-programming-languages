@@ -6,4 +6,5 @@ members = [
     "./Projects/Rust Programming Language Book/chapter 2 guessing_game",
     "./Projects/Rust Programming Language Book/chapter 3 variables",
     "./Projects/Rust Programming Language Book/chapter 3 functions",
+    "./Projects/Rust Programming Language Book/chapter 3 control flow",
 ]

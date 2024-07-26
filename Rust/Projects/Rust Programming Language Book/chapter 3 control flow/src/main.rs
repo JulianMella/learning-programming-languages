@@ -25,8 +25,8 @@ fn main() {
         println!("number is not divisible by 4, 3, or 2");
     }
 
-    let condition : bool = true;
-    let number = if condition { 5 } else { 2 };
+    let condition: bool = true;
+    let _number = if condition { 5 } else { 2 };
 
-    let a = [1,2,3,4,5];
+    let _a = [1, 2, 3, 4, 5];
 }
